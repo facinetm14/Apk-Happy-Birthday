@@ -3,4 +3,4 @@ This project is the starting of my Android development learning journey. It aims
 
 ![Screenshot]
 
-![alt text](https://github.com/facinetm14/Apk-Happy-Birthday/blob/master/Screenshot_20220914-022957_Happy%20Birthday.jpg | width=50)
+![alt text](https://github.com/facinetm14/Apk-Happy-Birthday/blob/master/Screenshot_20220914-022957_Happy%20Birthday.jpg = 100 x 100)
